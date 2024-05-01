@@ -54,7 +54,7 @@ npm create astro@latest
 
 ```
 
-## Proyecto dedicado a aprender a utilizar astro 
+## Proyecto dedicado a utilizar Astro como  framework
 
 - Estructura 
 - Componentes
