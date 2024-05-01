@@ -60,3 +60,6 @@ npm create astro@latest
 - Componentes
 - Sintaxis
 
+## Capturas
+
+![image](https://github.com/GuidoSantiagoReta/as-naipes/assets/46303885/7f08c17f-68b3-4a35-ae00-760ac8e25075)
