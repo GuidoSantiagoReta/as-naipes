@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+ body{
+    background-color: #477148;
+ }
+
+ h1{
+    text-align: center;
+    color: #fff;
+    margin: 10vh;
+    
+ }
+
+
+.cards-container {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between; 
+   margin: 10px;
+ }
+
+ img{
+   width: 200px; 
+ }
+ 
+ .card-title {
+   text-align: center; 
+   margin-bottom: 10px;
+  
+ }
+
+  /*seguir  7.46; https://www.youtube.com/watch?v=4cKPqxGkFZQ  */
